@@ -6,4 +6,7 @@
 
 int main()
 {
+	int a = add(2, 3);
+	int b = sub(3, 2);
+	int c = mul(a, b);
 }
